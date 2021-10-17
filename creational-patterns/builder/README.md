@@ -16,3 +16,6 @@
     <li>Quando o algoritmo precisa criar objetos complexos que devem ser independentes das partes que fazem o objeto e como eles são montados.</li>
     <li>O processo de construção deve permitir diferentes representações do objeto construido.</li>
 </ul>
+
+<h3>Estrutura</h3>
+<img alt="Builder Structure" src="./builder-structure.jpg">
