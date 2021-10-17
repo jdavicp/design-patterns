@@ -1,5 +1,5 @@
 <h1>Padrões de design</h1>
-<p>Este repositorio foi criado com a função de auxiliar no meus estudos na área de <b>design patterns.</b></p>
+<p>Este repositorio foi criado com a função de auxiliar no meus estudos sobre <b>design patterns.</b></p>
 
 <h3>Algumas referências</h3>
 <ul>
