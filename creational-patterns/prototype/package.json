@@ -1,0 +1,17 @@
+{
+  "name": "prototype",
+  "version": "1.0.0",
+  "description": "Especificar o tipo de objeto a ser criado usndo uma instância prototipica, e criar novos objetos copiando esse protótipo.",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ts-node": "^10.3.0",
+    "typescript": "^4.4.4"
+  },
+  "scripts": {
+    "start": "ts-node Prototype.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
